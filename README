@@ -1,0 +1,12 @@
+This Is A Sudoku Solver Program Written By ShervinKH145 (Leo145).
+It Uses A Semi-BackTrack Algorithm To Solve A Sudoku Puzzle.
+This Program Is Written With Qt And It's Cross-Platform.
+This Program Is Distributed Under GNU/GPLv3 License.
+
+To Compile, Open A Terminal In Source Code's Directory And Run:
+
+qmake Sudoku_Solver.pro
+make
+
+ChangeLog From 1.0 To 1.1:
+-Resize & Size Bugs Fixed
